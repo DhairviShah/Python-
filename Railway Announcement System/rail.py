@@ -26,7 +26,7 @@ def generateSkeleton():
     audioProcessed.export("1hindi.mp3", format="mp3")
     # starting city
 
-    # "ko jane wali" sound
+    # "ko jane wali " sound
     start = 91000
     finish = 92200
     audioProcessed = audio[start:finish]
